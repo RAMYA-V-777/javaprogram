@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author velmurugan
+ * @author Desktop pc
  */
 public class Excep1 {
 
